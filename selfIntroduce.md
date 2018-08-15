@@ -76,6 +76,7 @@
 | **自己紹介**<br/>(本テキスト) | HTML<br/>CSS<br/>MarkDown | 就活でwebプログラミングの会社をよく見ていることもあり、書けるようになっておいた方がいいと思い始めた勉強兼自己紹介用サイト。もともとサイト用に書いていたので、言語にHTMLとCSSが入っている。<br/>本テキストの為、参照先なし。 |
 | **fileStructure** | Haskell | これはREADME.mdに書いてあるような指定ディレクトリ以下のファイルをすべて表示するプログラムです。githubで探せるpublishedブランチに実行可能ファイルが置いてあるので試してみてください。<br/>詳しくは[こちら](https://github.com/ogata-k/fileStructure)。 |
 | **Shuffleモジュール** | Haskell | リストをシャッフルするためのモジュール。randomモジュールがhackage上にあるがその中にリストを混ぜるシャッフル関数が無かったのでそれのために作成した。 <br/> 詳しくは[こちら](https://github.com/ogata-k/shuffle)。 |
+| **繰り返しによる幾何学模様生成ソフト2** | Haskell | 以前Pythonで書いたプログラムをHaskellで書いてみた。初めてVimを使い始めたプログラムでもある。このプログラムのおかげHaskellの画像処理ライブラリJuicyPixelsに少し慣れたし、リストの転置のtranspose関数の強力さを改めて感じることができた。また、Githubのrelease機能を初めて使ったのもこのプログラム。<br/> [](https://github.com/ogata-k/ConvertDuplicater)|
 
 こうみるといろいろプログラミングをしていますが、実のところほとんどが勉強のために書いているので今では書けなくなっているものが多いです。（少しリハビリすれば読めるようになり、書けるようになると思いますが…）
 
