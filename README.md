@@ -21,6 +21,7 @@
   - Qiita [https://qiita.com/ogata-k](https://qiita.com/ogata-k)
   - twitter [https://twitter.com/ogtkzk](https://twitter.com/ogtkzk)
   - pixiv [https://www.pixiv.net/member.php?id=17104101](https://www.pixiv.net/member.php?id=17104101)
+  - Amazonの欲しいものリスト[https://www.amazon.co.jp/hz/wishlist/dl/invite/cdBoy2X](https://www.amazon.co.jp/hz/wishlist/dl/invite/cdBoy2X)
 
 こんな人物です。
 
