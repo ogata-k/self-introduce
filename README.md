@@ -11,18 +11,21 @@
   - 静岡大学 理学部数学科
   - バイザー株式会社
 - 興味のあること
-  - 数学(グラフ的な考え方、またはその表現論)
+  - 数学(グラフ、組合せ論)
   - 言語処理系
   - プログラミング
   - コーヒー
-  - デジ絵
+  - 絵
+  - 半人半獣
+  - 作曲
+  - アコーディオン
 - アカウント
   - Github [https://github.com/ogata-k?tab=repositories](https://github.com/ogata-k?tab=repositories)
   - Qiita [https://qiita.com/ogata-k](https://qiita.com/ogata-k)
   - twitter [https://twitter.com/ogtkzk](https://twitter.com/ogtkzk)
   - Mathlog [https://mathlog.info/users/1206/articles](https://mathlog.info/users/1206/articles)
   - pixiv [https://www.pixiv.net/member.php?id=17104101](https://www.pixiv.net/member.php?id=17104101)
-  - Amazonの欲しいものリスト[https://www.amazon.co.jp/hz/wishlist/dl/invite/cdBoy2X](https://www.amazon.co.jp/hz/wishlist/dl/invite/cdBoy2X)
+  - Amazonの欲しいものリスト[https://www.amazon.co.jp/hz/wishlist/ls/1ASRTIMR378KY](https://www.amazon.co.jp/hz/wishlist/ls/1ASRTIMR378KY)
 
 こんな人物です。
 
