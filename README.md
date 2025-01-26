@@ -37,6 +37,7 @@
   - Qiita [https://qiita.com/ogata-k](https://qiita.com/ogata-k)
   - X（旧Twitter） [https://twitter.com/ogtkzk](https://twitter.com/ogtkzk)
   - Bluesky [https://bsky.app/profile/ogata-k.bsky.social](https://bsky.app/profile/ogata-k.bsky.social)
+  - mixi2 @ogtkzk
   - Mathlog [https://mathlog.info/users/1206/articles](https://mathlog.info/users/1206/articles)
   - Pixiv [https://www.pixiv.net/member.php?id=17104101](https://www.pixiv.net/member.php?id=17104101)
   - Amazonの欲しいものリスト [https://www.amazon.co.jp/hz/wishlist/ls/1ASRTIMR378KY](https://www.amazon.co.jp/hz/wishlist/ls/1ASRTIMR378KY)
@@ -54,7 +55,7 @@
 | R言語 | 統計の勉強のため少し触れた程度。 |
 | Python | データの事前処理にR言語が扱いにくく、細かい設定をしたかったので勉強がてら触ってみた。 |
 | JavaFX | GUIなソフトを作りたかった。 |
-| Androidアプリ | Java使いにくいなーとか思っていたところに、AndroidがKotlinを採用したため学んでみることに。Flutterを使うまでは入門書を読んで理解できるレベル。 |
+| Androidアプリ | Java使いにくいなーとか思っていたところに、AndroidがKotlinを採用したため学んでみることに。Flutterを使うまでは入門書を読んで理解できるレベルだったが、WInPアプリをJetpack Composeを使って開発したおかげでいろいろ理解が進んだと思っている。 |
 | Haskell | 純粋な関数型指向が面白そうだった。構文解釈に初めて出会うのもこの言語。 |
 | MarkDown | GitHub、Qiita等で使うために自然と覚えていた。 |
 | HTML<br/>CSS<br/>JavaScript | 多くの就職希望先で必要となるために基本的なことを勉強した。 |
